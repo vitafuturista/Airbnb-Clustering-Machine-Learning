@@ -1,4 +1,4 @@
-# Airbnb-Clustering-Machine-Learning
+# Modelo de Clustering y Clasificación con datos de Airbnb
 Creación de un modelo de clustering y uno de clasificación utilizando dichos clusters con datos de Airbnb en Madrid
 
 Objetivo: Elaborar un modelo de clasificación en base a una tabla de datos de Airbnb extraídos de la web InsideAirbnb. Las clases para la clasificación se extraerán de un modelo de clustering hecho previamente
